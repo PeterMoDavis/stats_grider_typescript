@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/PeterMoDavis/stats_grider_typescript#readme",
   "dependencies": {
+    "@types/node": "^15.12.4",
     "concurrently": "^6.2.0"
   }
 }
